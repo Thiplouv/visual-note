@@ -1,0 +1,3 @@
+Physique-Chimie:totor;aaa|pl03;th03
+Philosophie:totor;aaa
+Mathematiques:pl03;th03

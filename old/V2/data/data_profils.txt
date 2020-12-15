@@ -1,0 +1,2 @@
+Elève:Pl00;Th00|nord;n|sud;s|nini;nn|kuku;az|tatache;aaa|pl02;th02|Moi;Même|Toi;Même|Elle;Même|abcd;efgh|test;123|Hola;Oui|zozo;test|Hello;pouet|tst1;a|El00;aaa|El01;aaa|El02;aaa
+Professeur:Prof;isn|est;e|south;qq|west;ww|west;james|nope;op|bibi;ee|totor;aaa|pl03;th03|Eux;Aussi|Toi;Aussi|fesseur;pro

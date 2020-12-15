@@ -1,0 +1,4 @@
+lv2:Anglais;2|Espagnol;2|Allemand;2
+spe:ISN;2|Maths;2|Biologie;2|Physique;2
+com:Mathematiques;7|Physique-Chimie;6|SVT;6|Philosophie;3|Histoire-Geo;3
+lv1:Anglais;3|Espagnol;3|Allemand;3

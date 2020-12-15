@@ -1,0 +1,3 @@
+ISN:Pl00;Th00|nord;n|kuku;az|pl02;th02|pl03;th03
+Maths:sud;s|tatache;aaa
+Physique:nini;nn

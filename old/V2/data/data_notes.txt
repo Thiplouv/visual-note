@@ -1,0 +1,7 @@
+Pl00;Th00:Mathematiques;12;20;1;Oral;01 mai|Espagnol;12;20;1;DM;01 mai|Mathematiques;11;20;1;Oral;01 mai|ISN;13.25;20;1;Interro;01 mai|Anglais;15;16;2;DM;01 mai|Philosophie;15;20;1;Interro;01 mai|Philosophie;19.5;20;2;Participation;01 mai|SVT;12;20;1;Oral;01 mai|Anglais (LV1);8;10;2;Oral;3-5|SVT;10;10;2;Interro;03 mai|Mathematiques;32.2;40;4;Bac Blanc;06 mai|Physique-Chimie;18;20;1;Participation;07 mai
+nord;n:Espagnol;12;20;1;Oral;01 mai|SVT;12;20;1;DM;01 mai|Physique-Chimie;15;20;2;Oral;01 mai
+sud;s:Anglais;11;20;1;Oral;01 mai|SVT;13.25;20;1;Interro;01 mai|Philosophie;08;20;4;Bac Blanc;01 mai
+nini;nn:Espagnol;15;16;2;DM;01 mai
+Elle;Même:Philosophie;13;20;2;Oral;06 mai|SVT;17;20;2;DM;07 mai
+Hello;pouet:Mathematiques;14;20;2;DM;07 mai
+Hola;Oui:Physique-Chimie;14;20;2;Oral;07 mai

@@ -1,0 +1,4 @@
+ISN:Pl00;Th00|nord;n|kuku;az|pl02;th02|pl03;th03|zozo;test|Hello;pouet|El01;aaa|Prf03;aaaa|El04;aaa|El06;aaaa
+Maths:sud;s|tatache;aaa|Coucou;Ca va|abcd;efgh|test;123|tst1;a|El00;aaa|El07;aaaa|Pf00;zzzz|El08;aaaa|El08;aaaa|El09;aaaa|Prf02;aaaa
+Physique:nini;nn
+SVT:Elle;Même|Loulou;Spou|Hola;Oui|El02;aaa|hoho;haha|El05;bbbb

@@ -1,0 +1,2 @@
+Begliomini;Alexandre:Mathematiques;13;20;1;DM;12 juin|Mathematiques;30;40;4;Bac Blanc;22 mai|Physique-Chimie;9;13;2;Interro;12 avril|SVT;13;16;4;Bac Blanc;9 mars|Philosophie;8;10;1;Participation;14 juin|Philosophie;12;20;2;Interro;17 juin|Histoire-Geo;10;20;3;Interro;12 juin|Anglais;17;20;2;Oral;2 juin|Espagnol;13;20;2;Oral;14 juin|ISN;19;20;1;Interro;14 juin
+Kouy;Kévin:Physique-Chimie;15;20;1;Oral;15 juin

@@ -1,0 +1,3 @@
+Espagnol:Pl00;Th00|nord;n|tatache;aaa|pl02;th02|pl03;th03|Elle;Même|Eux;Aussi|Coucou;Ca va|abcd;efgh|test;123|Hola;Oui|zozo;test|Hello;pouet|tst1;a|El00;aaa|El01;aaa|El02;aaa|hoho;haha|El04;aaa|El05;bbbb|El06;aaaa|El07;aaaa|El08;aaaa|El08;aaaa|El09;aaaa
+Anglais:sud;s|Prf03;aaaa
+Allemand:nini;nn|kuku;az

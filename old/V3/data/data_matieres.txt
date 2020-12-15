@@ -1,0 +1,1 @@
+com:Mathematiques;7|Physique-Chimie;6|SVT;6|Philosophie;3|Histoire-Geo;3|Sport;2lv1:Anglais;3|Espagnol;3|Allemand;3lv2:Anglais|Espagnol;2|Allemand;2spe:ISN;2|Maths;2|SVT;2|Physique;2
