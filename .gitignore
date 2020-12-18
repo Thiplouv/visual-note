@@ -3,3 +3,9 @@
 
 # Ignore python cache
 __pycache__
+
+# Ignore old versions releases
+old
+
+# Ignore test files
+tests
