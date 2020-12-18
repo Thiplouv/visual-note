@@ -1,3 +1,0 @@
-poire:comice,conférence
-Pomme:golden,chantecler
-Cerise:burlat,reverchon,summit

@@ -1,3 +1,0 @@
-Elève:Pl00;Th00|nord;n|sud;s|nini;nn|kuku;az|tatache;aaa|pl02;th02|Moi;Même|Toi;Même|Elle;Même|abcd;efgh|test;123|Hola;Oui|zozo;test|Hello;pouet|tst1;a|El00;aaa|El01;aaa|El02;aaa|hoho;haha|El04;aaa|El05;bbbb|El06;aaaa|El07;aaaa|El08;aaaa|El09;aaaa
-Professeur:Prof;isn|est;e|south;qq|west;ww|west;james|nope;op|bibi;ee|totor;aaa|pl03;th03|Eux;Aussi|Toi;Aussi|fesseur;pro|héhé;hihi|Prf01;aaa|Prf02;aaa|Prf03;aaaa|Pf00;zzzz|Prf02;aaaa
-Administrateur:Admin;isn|pl01;th01|pl04;th04|pl05;th05|pl05;th05|pl06;th06|pl07;th07|pl08;th08|pl09;th09|pl10;th10|pl11;th11|pl11;th11|pl12;th12|pl13;th13|pl14;th14|pl15;th05|pl16;th16|pl17;th17|pl18;th18|pl19;th19|pl20;th20|pl21;th21|pl22;th22|pl23;th23|pl24;th24|pl25;th25|ad00;aaa|Ad01;aaaa|Ad02;aaaa|Ad03;aaaa|Ad04;aaaa

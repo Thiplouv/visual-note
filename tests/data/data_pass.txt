@@ -1,5 +1,0 @@
-Pl00;Th00:pwd00
-Prof;isn:pwd
-Admin;isn:pass
-pl24;th24:ISN_2020
-pl25;th25:ISN_2020

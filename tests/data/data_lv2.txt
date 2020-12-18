@@ -1,3 +1,0 @@
-Espagnol:Pl00;Th00|nord;n|tatache;aaa|pl02;th02|pl03;th03
-Anglais:sud;s
-Allemand:nini;nn|kuku;az

@@ -1,4 +1,0 @@
-Physique-Chimie:totor;aaa|pl03;th03
-Philosophie:totor;aaa|fesseur;pro
-Mathematiques:pl03;th03|Prf02;aaa|Prf03;aaaa|Pf00;zzzz|Prf02;aaaa
-SVT:Eux;Aussi|Loulou;Spou
